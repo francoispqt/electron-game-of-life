@@ -20,6 +20,13 @@ Or just:
 $ npm start
 ```
 
+## Run the tests
+
+```bash
+$ cd your-project-name
+$ npm test
+```
+
 ## DevTools
 
 #### Toggle Chrome DevTools
