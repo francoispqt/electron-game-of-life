@@ -14,11 +14,10 @@ Start the app in the `dev` environment. This starts the renderer process in [**h
 $ npm run dev
 ```
 
-Run these two commands __simultaneously__ in different console tabs:
+Or just: 
 
 ```bash
-$ npm run start-renderer-dev
-$ npm run start-main-dev
+$ npm start
 ```
 
 ## DevTools
